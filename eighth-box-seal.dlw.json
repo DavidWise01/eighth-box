@@ -1,0 +1,24 @@
+{
+  "moniker": "⟦THE EIGHTH BOX:FK:0128d7⟧",
+  "spoken": "kam-zax-grun",
+  "name": "THE EIGHTH BOX",
+  "axiom": "FK",
+  "nature": "electrical",
+  "origin": "UD0 · Universe David 0",
+  "seal_line": "occupied or empty, both sides · toll 0.20 not 0.40 · pair(2)=single(3)=8, claimed by both, owned by none · maxP(8)=(2g/D)^2, transport intact · the kernel's virtual state · html d3a5569054adc795",
+  "seal_sha256": "f2c1895eb8c5b39f48cafab1d54318932f2c20b14667146130ea35d4e3c3bc84",
+  "artifacts": {
+    "eighth-box.html": "d3a5569054adc795918e546e59b284ac47750e81f2c0bfc9735d53a20057dfdd",
+    "box8.py": "e1e96075d24cde6b2e2d9294e8ac0db6754fcb2719eba3a25ef42c3122acbdba"
+  },
+  "verification": {
+    "core": "14/14 node assertions vs python (RK4 both languages)",
+    "boot": "8/8 jsdom smoke, conductor LIT"
+  },
+  "stamp": "LIT (ledger forensics + quantum simulation) / AMBER (virtual-state reading, ratified)",
+  "spec_lineage": "child probe of THE FOLDED KERNEL FK-1.3 (64561a87…cd1a78b0)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0",
+  "sealed": "2026-07-17",
+  "provenance": "question posed by spec author; both sides instrumented; ceremony control-arm verified; chain-commit awaits ROOT0 push"
+}
